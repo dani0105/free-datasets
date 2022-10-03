@@ -23,7 +23,8 @@ The information in the data sets must be created collaboratively. For example, i
 | --- | ------ |
 | 22  | 78     |
 | 25  | 100    |
-| 30  | 88     |
+| 30  | 88     |  
+
 You can collaborate by adding your data. In addition, you should check the `README.md` dataset to see what kind of information the dataset has, how to collaborate, and any important information that the creator deems important for that dataset.
 
 **Note: If you add your data to dataset(s), you agree to share your data publicly and allow people to use it.**
