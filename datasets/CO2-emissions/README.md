@@ -10,6 +10,9 @@ The information are store for country in `csv` files. I store the information in
 -  co2_kilogram_for_one_thousand_dollars: Kilograms of CO2 emissions per $1,000 of GDP
 -  co2_per_capita: tons of CO2 emissions per capita
 
+## Source
+The information in this dataset was collected using web scraping in [datosmacro.com](https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2)
+
 ## Example
 | year   | co2_total_megatonne | co2_kilogram_for_one_thousand_dollars | co2_per_capita |
 | ------ | ------------------- | ------------------------------------- | -------------- |
