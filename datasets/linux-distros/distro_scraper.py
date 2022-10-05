@@ -45,4 +45,3 @@ df = pd.DataFrame(
 
 # Save to csv (this will save in the same directory as the script)
 df.to_csv("LINUX_DISTROS.csv", encoding='utf-8', index=False)
-
