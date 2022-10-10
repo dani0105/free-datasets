@@ -1,12 +1,12 @@
 ## What Was The Purpose?
-The purpose of this analysis is to use the `CN_CHINA.csv` dataset to get useful information about CO2 emissions in CHINA, during the years 1970-2021.
+The purpose of this analysis is to use the `CN_CHINA.csv` dataset to get useful information about CO2 emissions in China, during the years 1970-2021.
 
 ## How Did You Do It?
 All analysis was done using the **R programming language**, and one library called **ggplot2**.
 
 ### Running instructions
 
-To R script is found in the `data-analysis/CO2-emissions-analysis` folder.
+The R script is found in the `data-analysis/CO2-emissions-analysis` folder.
 
 The only prerequisite to run this is to have R installed, and add the **ggplot2** library:
 ```R
@@ -24,7 +24,7 @@ Rscript CO2-analysis-script.R
 ## What Was The Results?
 
 #### Summary
-I found that the CO2 emissions in China have been rising over the last several decades. Although it has been steadily increasing, they are no current outliers.  Predicting any future changes, I was able to statistically compute about a 240 megatonne increase in the amount of CO2 emissions yearly, on average.
+I found that the CO2 emissions in China have been rising over the last several decades. Although it has been steadily increasing, there are no current outliers.  Predicting any future changes, I was able to statistically compute about a 240 megatonne increase in the amount of CO2 emissions yearly, on average.
 
 Based on the research below, China will continue to emit more CO2 each year at a steady rate.
 
