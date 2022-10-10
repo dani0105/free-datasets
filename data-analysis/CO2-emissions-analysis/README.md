@@ -32,19 +32,19 @@ Based on the research below, China will continue to emit more CO2 each year at a
 #### Research
 
 ##### Total emissions since 1970
-![Total Emissions](../CO2-emissions-analysis/CO2-analysis-img/total-emissions.png)
+![Total Emissions](CO2-analysis-img/total-emissions.png)
 
 
 On a surprising note, the kilograms of CO2 emissions per $1000 of GDP has been decreasing.
 
 ##### Kilograms of CO2 emissions per $1,000 of GDP
-![Emissions Per KG/$1000](../CO2-emissions-analysis/CO2-analysis-img/emissions-per-kg.png)
+![Emissions Per KG/$1000](CO2-analysis-img/emissions-per-kg.png)
 
 
 Regarding any outliers, no particular year produced unusually more or less emissions, seen in the absence of any outliers in the boxplot below.
 
 ##### Boxplot to show any outliers
-![Outlier Emissions](../CO2-emissions-analysis/CO2-analysis-img/total-data-boxplot.png)
+![Outlier Emissions](CO2-analysis-img/total-data-boxplot.png)
 
 
 The mean of the total emissions is 4873.06. However, this is a simple calculation and is actually not the most reliable. Using a t-test in **R**, I was able to calculate that the true mean of total emissions from this sample is actually between 3800.937 and 5945.184.
